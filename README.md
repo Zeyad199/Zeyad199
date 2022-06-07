@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zeemberg
 - 👀 I’m interested in ... Web development, Discord development, Mobile development
-- 🌱 I’m currently learning ... Typescript, Mobile development, V, Perl
+- 🌱 I’m currently learning ... Typescript, Mobile development, V, Perl, Julia
 - 💞️ I’m looking to collaborate on ... Any project
 - 📫 How to reach me ... zeem#5520 on discord
